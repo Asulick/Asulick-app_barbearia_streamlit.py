@@ -1,0 +1,22 @@
+[
+    {
+        "cliente": "jp",
+        "valor": 40.0,
+        "data": "2025-05-07"
+    },
+    {
+        "cliente": "paulo ",
+        "valor": 40.0,
+        "data": "2025-05-07"
+    },
+    {
+        "cliente": "zion",
+        "valor": 40.0,
+        "data": "2025-05-07"
+    },
+    {
+        "cliente": "paulo",
+        "valor": 35.0,
+        "data": "2025-05-07"
+    }
+]
